@@ -3,7 +3,7 @@
 # Forecasting Unemployment Insurance Claims in the US
 
 ## Overview
-This repository contains a comprehensive modeling framework aimed at forecasting monthly Initial Claims (IC) and Continued Claims (CC) for unemployment insurance (UI) in the United States. It is a group project that utilized various predictive models and R language is used as the main tool. Accurate forecasting of UI claims is vital for informed policy-making, resource allocation, and labor market assessment.
+This repository contains a comprehensive modeling framework aimed at forecasting monthly Initial Claims (IC) and Continued Claims (CC) for unemployment insurance (UI) in the United States, stemming from 1971 to 2024. It is a group project that utilized various predictive models and R language is used as the main tool. Accurate forecasting of UI claims is vital for informed policy-making, resource allocation, and labor market assessment.
 
 ## Objective
 The primary goal is to evaluate and compare various statistical and machine learning methods to improve predictive accuracy by incorporating diverse economic, labor market, and financial indicators.
